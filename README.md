@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- 主页卡片之「Github Status」  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hwame&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" alt="鴻塵的主页统计卡片" />
