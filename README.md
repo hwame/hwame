@@ -1,4 +1,3 @@
-<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- 主页卡片之「Github Status」  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hwame&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" alt="鴻塵的主页统计卡片" />
@@ -13,7 +12,6 @@
   <!-- 主页卡片之「置顶仓库」 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hwame&repo=hwame.github.io&theme=cobalt" alt="鴻塵的置顶仓库卡片" />
 </a>
-</div>
 
 
 <!--
